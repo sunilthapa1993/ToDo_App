@@ -8,11 +8,11 @@ Please follow the below steps in windows terminal for running the application.
 
 ## Clone repository
 
-    git clone https://github.com/sunilthapa1993/Bytive_Assignment.git
+    git clone https://github.com/sunilthapa1993/ToDo_App.git
 
 ## Change to project directory
 
-    cd Bytive_Assignment
+    cd ToDo_App
 
 ## Run migrations
 
